@@ -1,2 +1,2 @@
 # Student_Report
-Student performance is evaluated through average, standard deviation, variance, percentage and various other parameter.
+Student performance is evaluated through average, percentage and various other parameter.
